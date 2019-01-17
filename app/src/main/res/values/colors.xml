@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574b</color>
+    <color name="colorAccent">#3ed81b</color>
+    <color name="jungle">#091e0a</color>
+    <color name="postbtn">#043d08</color>
+    <color name="postbackground">#000205</color>
+    <color name="inputtext">#008080</color>
+    <color name="title">#808000</color>
+
+    <color name="green">#4caf50</color>
+    <color name="warning">#dacb28</color>
+
+    <color name="white">#ffffff</color>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250050069337",
+    "firebase_url": "https://earnestly-3d14b.firebaseio.com",
+    "project_id": "earnestly-3d14b",
+    "storage_bucket": "earnestly-3d14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250050069337:android:3e53653240a01f08",
+        "android_client_info": {
+          "package_name": "com.gprovs.earnestly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250050069337-e3m5p9udcuemp3obf7d2382tqq7n1nov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gprovs.earnestly",
+            "certificate_hash": "41420c7d489e46a84dd5a33284e37dd88a40c312"
+          }
+        },
+        {
+          "client_id": "250050069337-i3j3759dce8jc7186qf17jhmkbt0rqci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwfeQNCANiRcL7S0hkAF4fJ1_RMQwlks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250050069337-i3j3759dce8jc7186qf17jhmkbt0rqci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
